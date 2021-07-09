@@ -19,6 +19,7 @@ você acabou de clonar!!
 
 
 > cd MayBot
+> 
 > bash install.sh
 
 ### Para rodar
