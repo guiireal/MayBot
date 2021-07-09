@@ -32,7 +32,6 @@ você acabou de clonar!!
 *  <a href="https://github.com/KillovSky"><img alt="GitHub" src="https://img.shields.io/badge/KillovSky%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 *  <a href="https://github.com/Polux021"><img alt="GitHub" src="https://img.shields.io/badge/Polux021%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 *  <a href="https://github.com/italuH"><img alt="GitHub" src="https://img.shields.io/badge/italuH%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-*  <a href="https://github.com/italuH"><img alt="GitHub" src="https://img.shields.io/badge/italuH%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 *  <a href="https://github.com/NourryX"><img alt="GitHub" src="https://img.shields.io/badge/NourryX%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 *  <a href="https://github.com/ianmsfvenom"><img alt="GitHub" src="https://img.shields.io/badge/ianmsfvenom%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
