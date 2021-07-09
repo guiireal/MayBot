@@ -13,7 +13,6 @@
 bash
 > git clone https://github.com/thothdeus/MayBot
 
-
 ## Instale as dependências:
 Antes de executar o comando abaixo, certifique-se de estar no diretório do projeto que
 você acabou de clonar!!
@@ -22,19 +21,11 @@ bash
 > cd MayBot
 > bash install.sh
 
-
 ### Para rodar
 bash
 > npm start
 
-
 ### Settings (mude para o seu número)
-json
-{
-	"prefix": "#",
-	"crtt": "Jogo da velha 𝐌𝐀𝐘 𝐁𝐎𝐓",
-	"ownerNumber": "5511930758170"
-}
 
 ## Agradecimento
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
